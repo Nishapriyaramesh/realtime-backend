@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "employee-test": "node src/employeeUtility.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
