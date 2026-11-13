@@ -1,6 +1,3 @@
-/**
- * Employee Data Utility & Transformer (Node.js)
- */
 
 const testScenarios = [
   // Scenario 1: Standard populated response
